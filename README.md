@@ -4,3 +4,6 @@
 | 2409116092 | Nova Rasyadina Anwar      |
 | 2409116109 | Elvira Agustin            |
 | 2409116115 | Keisya Siti Nafisa Andini |
+
+# Link Google Colab
+https://colab.research.google.com/drive/1Dyj-eJqjTEXlnJOeQHXrDEG3TvHb4Z6O?usp=sharing
